@@ -2,9 +2,9 @@
 marianegreli/marianegreli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Hi there! 💝##
+## Hi there! 💝
 
-I’m @marianegreli, a brazilian computer engineering student - still learning .C 😅. Reach me on instagram: @maria_negreli!
+I’m @marianegreli, a brazilian Python Deveeloper and computer engineering student - still learning .C 😅
  
 <div> 
   <a href="https://instagram.com/maria_negreli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
