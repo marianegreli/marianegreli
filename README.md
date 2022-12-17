@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Hi there! 💝
 
-I’m @marianegreli, a brazilian Python Deveeloper and computer engineering student - still learning .C 😅
+I’m @marianegreli, a brazilian Python Developer and computer engineering student - still learning .C 😅
  
 <div> 
   <a href="https://instagram.com/maria_negreli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
