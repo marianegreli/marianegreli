@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 I’m @marianegreli, a brazilian Python Developer and computer engineering student - still learning .C 😅 
 
-Contact by: mariafernandanegreli@gmail.com
+Professional contact by: mariafernandanegreli@gmail.com
  
 <div> 
  
