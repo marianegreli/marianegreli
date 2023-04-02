@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Hi there! 💝
 
-I’m @marianegreli, a brazilian Python Developer and computer engineering student - still learning .C 😅 
+I’m @marianegreli, a brazilian Python Developer still learning .C 😅 
 
 Professional contact by: mariafernandanegreli@gmail.com
   
